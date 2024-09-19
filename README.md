@@ -30,6 +30,8 @@ Markdown이란?
 >>>진짜입니다.
 
 `코드`
+
+[고려대학교}(./images)
 <https://www.korea.ac.kr>
 
 [고려대학교](https://www.korea.ac.kr,"고려대학교 홈페이지입니다.")
