@@ -38,4 +38,4 @@ Markdown이란?
 
 [고려대학교](https://www.korea.ac.kr)
 
-![고려대학교}(./images)
+![고려대학교}(./images/desert-9019840_1280 (1).jpg)
