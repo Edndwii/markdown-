@@ -30,9 +30,9 @@ Markdown이란?
 >>>진짜입니다.
 
 `코드`
-<www.korea.ac.kr>
+<https://www.korea.ac.kr>
 
-[고려대학교](www.korea.ac.kr,"고려대학교 홈페이지입니다.")
+[고려대학교](https://www.korea.ac.kr,"고려대학교 홈페이지입니다.")
 
-[고려대학교](www.korea.ac.kr)
+[고려대학교](https://www.korea.ac.kr)
 
